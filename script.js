@@ -60,7 +60,6 @@ function scroll() {
     })(jQuery, window, document);
 
 
-    showSlides(slideIndex);
 
 
 }
